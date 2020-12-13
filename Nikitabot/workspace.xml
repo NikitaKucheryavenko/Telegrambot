@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24140a9f-a5b1-4e00-bcd8-dd64c92e6d41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lOdpP4B2efzMmWMXMniZKZCzyv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Nikitabot" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.parser" />
+      <module name="Nikitabot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.parser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24140a9f-a5b1-4e00-bcd8-dd64c92e6d41" name="Default Changelist" comment="" />
+      <created>1607472253606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607472253606</updated>
+      <workItem from="1607472255145" duration="60000" />
+      <workItem from="1607472375398" duration="81000" />
+      <workItem from="1607472474988" duration="9785000" />
+      <workItem from="1607550001761" duration="661000" />
+      <workItem from="1607550701981" duration="406000" />
+      <workItem from="1607551178536" duration="7282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1607472400515">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="533" y="134" key="#com.intellij.ide.util.MemberChooser/0.23.1440.801@0.23.1440.801" timestamp="1607472400515" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1607558980654">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1607558980654" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1607539245566" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1607558980653">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1607558980653" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1607539245565" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1607558980653">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1607558980653" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1607539245565" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1607558980654">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1607558980654" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1607539245566" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1607475225825">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1607475225825" />
+  </component>
+</project>
